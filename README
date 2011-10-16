@@ -1,0 +1,6 @@
+
+http://www.ruby-doc.org/core-1.9.2/String.html
+
+I don't know why deletion works this way, but it does.
+You may have to change the expectation to get it to pass.
+ 
